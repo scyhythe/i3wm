@@ -1,1 +1,1 @@
-# i3wm-nord
+# i3wm
